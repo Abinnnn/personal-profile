@@ -8,6 +8,6 @@ Skills: C++ / Kotlin / JS / HTML / CSS
 
 
 - 👋 Hi, I’m @Abinnnn or just call me bayu
-- 👀 I’m interested in Web Developer and Mobile developer
+- 👀 I’m interested in Web and Mobile Developer
 - 🌱 I’m currently learning anything
 - 🔭 I’m currently working on this page. 
