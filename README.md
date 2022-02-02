@@ -20,18 +20,19 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
     <img alt="Twitter Profile" title="Follow My Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   
   <a href="https://github.com/Abinnnn">
-    <img alt="fGithub Profile" title="Follow My Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="Github Profile" title="Follow My Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   
   <a href="https://developercorner78.blogspot.com/">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
 </p>
 
-</p>
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abinnnn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abinnnn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ### 👨‍💻 Programming languages
 
@@ -45,7 +46,8 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 # 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinnnn)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinnnn&show_icons=true&theme=tokyonight)
 
 <!-- Graphic Chart -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abinnnn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
