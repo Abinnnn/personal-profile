@@ -49,5 +49,3 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinnnn&show_icons=true&theme=tokyonight)
 
-<!-- Graphic Chart -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abinnnn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
