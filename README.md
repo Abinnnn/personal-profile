@@ -16,7 +16,7 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 ## 🙋‍♂️ Connect with me
 <p align="center"> 
   
-  <a href="https://twitter.com/dhitezy4">
+  <a href="https://twitter.com/dhitezy">
     <img alt="Twitter Profile" title="Follow My Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   
   <a href="https://github.com/Abinnnn">
