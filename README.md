@@ -5,10 +5,10 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 
 ## I'm a Student, Developer, and Learner!! Novice technologist with passion
 
-- 👀 I’m interested in New Tech and Mobile Development
+- 👀 I’m interested Multi-Platform Development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Become intermediate flutter dev
 - 💞️ Fun Fact: Stoicism Enthusiast😁
 
 ![I am novice technologist with passion](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
@@ -27,25 +27,12 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 </p>
 
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abinnnn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/PyFlutter%20-%2314354C.svg?logo=flutter&logoColor=blue"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
-# 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinnnn&show_icons=true&theme=tokyonight)
-
