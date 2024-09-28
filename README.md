@@ -1,38 +1,34 @@
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Hi, Everyone~
 </h3>
-
-## I'm a Student, Developer, and Learner!! Novice technologist with passion
-
-- 👀 I’m interested Multi-Platform Development
-- 🌱 I’m currently learning everything 
-- 📫 Trying to imporve myself everyday
-- 🥅 2023 Goals: Become intermediate flutter dev
-- 💞️ Fun Fact: Stoicism Enthusiast😁
 
 ![I am novice technologist with passion](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
 
-## 🙋‍♂️ Connect with me
-<p align="center"> 
-  
-  <a href="https://twitter.com/dhitezy">
-    <img alt="Twitter Profile" title="Follow My Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  
-  <a href="https://github.com/Abinnnn">
-    <img alt="Github Profile" title="Follow My Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  
-  <a href="https://developercorner78.blogspot.com/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
-</p>
+## I'm a Student, Developer, and Learner!! Novice technologist with passion
+
+💡 &nbsp; I'm a software developer student at Gadjah Mada University! \
+🌱 &nbsp;I'm on track for learning more about Mobile Developer, Computer Vision, and  Deep Learning.\
+✍️ &nbsp;In my free time, I read some fiction book and pursue writing as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at mr.adhityabayu@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/adhityabayu/) for more details about work experience.
 
 
-### 👨‍💻 Programming languages
+## Languages
 
-<p>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/PyFlutter%20-%2314354C.svg?logo=flutter&logoColor=blue"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+## Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Microsoft Azure](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
